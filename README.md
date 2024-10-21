@@ -16,6 +16,8 @@ Bu uygulama, COVID-19 tespiti için görüntü sınıflandırma yapan bir makine
 
    ```bash
    streamlit run app.py
+
+   
 ##NOTLAR
 
 - **Uygulamayı test etmek için** covid.png ve noncovid.png adında iki adet örnek görüntü mevcuttur. Bu görüntüleri yükleyerek modeli test edebilirsiniz.

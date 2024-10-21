@@ -20,4 +20,4 @@ Bu uygulama, COVID-19 tespiti için görüntü sınıflandırma yapan bir makine
    
 ## Notlar
 
-- **Uygulamayı test etmek için** covid.png ve noncovid.png adında iki adet örnek görüntü mevcuttur. Bu görüntüleri yükleyerek modeli test edebilirsiniz.
+- Uygulamayı test etmek için **covid.png** ve **noncovid.png** adında iki adet örnek görüntü mevcuttur. Bu görüntüleri yükleyerek modeli test edebilirsiniz.

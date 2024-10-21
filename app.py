@@ -78,4 +78,4 @@ if uploaded_file is not None:
         prediction = dt.predict(img_array)
 
     # Tahmin sonucunu göster
-    st.write(f"Tahmin Sonucu: {'COVID-19 Pozitif' if prediction[0] == 1 else 'COVID-19 Negatif'}")
+    st.write(f"Tahmin Sonucu: {'COVID : Pozitif' if prediction[0] == 1 else 'COVID : Negatif'}")

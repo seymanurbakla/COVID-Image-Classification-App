@@ -1,6 +1,6 @@
-# COVID-19 Görüntü Sınıflandırma Uygulaması
+# COVID Görüntü Sınıflandırma Uygulaması
 
-Bu uygulama, COVID-19 tespiti için görüntü sınıflandırma yapan bir makine öğrenimi modelidir. Kullanıcıların yüklediği görüntüler üzerinde farklı sınıflandırma modelleri kullanarak tahminler yapmaktadır. Destek Vektör Makineleri (SVM), Karar Ağaçları, Lojistik Regresyon ve Random Forest gibi modeller arasından seçim yapma imkanı sunar.
+Bu uygulama, COVID tespiti için görüntü sınıflandırma yapan bir makine öğrenimi modelidir. Kullanıcıların yüklediği görüntüler üzerinde farklı sınıflandırma modelleri kullanarak tahminler yapmaktadır. Destek Vektör Makineleri (SVM), Karar Ağaçları, Lojistik Regresyon ve Random Forest gibi modeller arasından seçim yapma imkanı sunar.
 
 ## Özellikler
 
